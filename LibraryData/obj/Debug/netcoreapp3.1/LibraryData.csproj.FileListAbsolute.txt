@@ -1,0 +1,8 @@
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\milic\source\repos\Diplomski-back\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
